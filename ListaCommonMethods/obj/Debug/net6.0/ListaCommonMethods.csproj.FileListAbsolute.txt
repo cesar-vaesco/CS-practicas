@@ -1,0 +1,15 @@
+D:\CS-ejercicios\ListaCommonMethods\bin\Debug\net6.0\ListaCommonMethods.exe
+D:\CS-ejercicios\ListaCommonMethods\bin\Debug\net6.0\ListaCommonMethods.deps.json
+D:\CS-ejercicios\ListaCommonMethods\bin\Debug\net6.0\ListaCommonMethods.runtimeconfig.json
+D:\CS-ejercicios\ListaCommonMethods\bin\Debug\net6.0\ListaCommonMethods.dll
+D:\CS-ejercicios\ListaCommonMethods\bin\Debug\net6.0\ListaCommonMethods.pdb
+D:\CS-ejercicios\ListaCommonMethods\obj\Debug\net6.0\ListaCommonMethods.csproj.AssemblyReference.cache
+D:\CS-ejercicios\ListaCommonMethods\obj\Debug\net6.0\ListaCommonMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\ListaCommonMethods\obj\Debug\net6.0\ListaCommonMethods.AssemblyInfoInputs.cache
+D:\CS-ejercicios\ListaCommonMethods\obj\Debug\net6.0\ListaCommonMethods.AssemblyInfo.cs
+D:\CS-ejercicios\ListaCommonMethods\obj\Debug\net6.0\ListaCommonMethods.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\ListaCommonMethods\obj\Debug\net6.0\ListaCommonMethods.dll
+D:\CS-ejercicios\ListaCommonMethods\obj\Debug\net6.0\refint\ListaCommonMethods.dll
+D:\CS-ejercicios\ListaCommonMethods\obj\Debug\net6.0\ListaCommonMethods.pdb
+D:\CS-ejercicios\ListaCommonMethods\obj\Debug\net6.0\ListaCommonMethods.genruntimeconfig.cache
+D:\CS-ejercicios\ListaCommonMethods\obj\Debug\net6.0\ref\ListaCommonMethods.dll

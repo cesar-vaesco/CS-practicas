@@ -1,0 +1,15 @@
+D:\CS-ejercicios\Excepciones\bin\Debug\net6.0\Excepciones.exe
+D:\CS-ejercicios\Excepciones\bin\Debug\net6.0\Excepciones.deps.json
+D:\CS-ejercicios\Excepciones\bin\Debug\net6.0\Excepciones.runtimeconfig.json
+D:\CS-ejercicios\Excepciones\bin\Debug\net6.0\Excepciones.dll
+D:\CS-ejercicios\Excepciones\bin\Debug\net6.0\Excepciones.pdb
+D:\CS-ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.csproj.AssemblyReference.cache
+D:\CS-ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfoInputs.cache
+D:\CS-ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.AssemblyInfo.cs
+D:\CS-ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.dll
+D:\CS-ejercicios\Excepciones\obj\Debug\net6.0\refint\Excepciones.dll
+D:\CS-ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.pdb
+D:\CS-ejercicios\Excepciones\obj\Debug\net6.0\Excepciones.genruntimeconfig.cache
+D:\CS-ejercicios\Excepciones\obj\Debug\net6.0\ref\Excepciones.dll

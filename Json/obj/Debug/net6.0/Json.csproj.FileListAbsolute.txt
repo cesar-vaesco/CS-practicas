@@ -1,0 +1,15 @@
+D:\CS-ejercicios\Json\bin\Debug\net6.0\Json.exe
+D:\CS-ejercicios\Json\bin\Debug\net6.0\Json.deps.json
+D:\CS-ejercicios\Json\bin\Debug\net6.0\Json.runtimeconfig.json
+D:\CS-ejercicios\Json\bin\Debug\net6.0\Json.dll
+D:\CS-ejercicios\Json\bin\Debug\net6.0\Json.pdb
+D:\CS-ejercicios\Json\obj\Debug\net6.0\Json.csproj.AssemblyReference.cache
+D:\CS-ejercicios\Json\obj\Debug\net6.0\Json.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\Json\obj\Debug\net6.0\Json.AssemblyInfoInputs.cache
+D:\CS-ejercicios\Json\obj\Debug\net6.0\Json.AssemblyInfo.cs
+D:\CS-ejercicios\Json\obj\Debug\net6.0\Json.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\Json\obj\Debug\net6.0\Json.dll
+D:\CS-ejercicios\Json\obj\Debug\net6.0\refint\Json.dll
+D:\CS-ejercicios\Json\obj\Debug\net6.0\Json.pdb
+D:\CS-ejercicios\Json\obj\Debug\net6.0\Json.genruntimeconfig.cache
+D:\CS-ejercicios\Json\obj\Debug\net6.0\ref\Json.dll

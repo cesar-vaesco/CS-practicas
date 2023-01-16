@@ -1,0 +1,15 @@
+D:\CS-ejercicios\TipoDeDato\bin\Debug\net6.0\TipoDeDato.exe
+D:\CS-ejercicios\TipoDeDato\bin\Debug\net6.0\TipoDeDato.deps.json
+D:\CS-ejercicios\TipoDeDato\bin\Debug\net6.0\TipoDeDato.runtimeconfig.json
+D:\CS-ejercicios\TipoDeDato\bin\Debug\net6.0\TipoDeDato.dll
+D:\CS-ejercicios\TipoDeDato\bin\Debug\net6.0\TipoDeDato.pdb
+D:\CS-ejercicios\TipoDeDato\obj\Debug\net6.0\TipoDeDato.csproj.AssemblyReference.cache
+D:\CS-ejercicios\TipoDeDato\obj\Debug\net6.0\TipoDeDato.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\TipoDeDato\obj\Debug\net6.0\TipoDeDato.AssemblyInfoInputs.cache
+D:\CS-ejercicios\TipoDeDato\obj\Debug\net6.0\TipoDeDato.AssemblyInfo.cs
+D:\CS-ejercicios\TipoDeDato\obj\Debug\net6.0\TipoDeDato.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\TipoDeDato\obj\Debug\net6.0\TipoDeDato.dll
+D:\CS-ejercicios\TipoDeDato\obj\Debug\net6.0\refint\TipoDeDato.dll
+D:\CS-ejercicios\TipoDeDato\obj\Debug\net6.0\TipoDeDato.pdb
+D:\CS-ejercicios\TipoDeDato\obj\Debug\net6.0\TipoDeDato.genruntimeconfig.cache
+D:\CS-ejercicios\TipoDeDato\obj\Debug\net6.0\ref\TipoDeDato.dll

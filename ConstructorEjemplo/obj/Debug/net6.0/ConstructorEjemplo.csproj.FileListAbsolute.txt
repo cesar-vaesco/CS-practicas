@@ -1,0 +1,15 @@
+D:\CS-ejercicios\ConstructorEjemplo\bin\Debug\net6.0\ConstructorEjemplo.exe
+D:\CS-ejercicios\ConstructorEjemplo\bin\Debug\net6.0\ConstructorEjemplo.deps.json
+D:\CS-ejercicios\ConstructorEjemplo\bin\Debug\net6.0\ConstructorEjemplo.runtimeconfig.json
+D:\CS-ejercicios\ConstructorEjemplo\bin\Debug\net6.0\ConstructorEjemplo.dll
+D:\CS-ejercicios\ConstructorEjemplo\bin\Debug\net6.0\ConstructorEjemplo.pdb
+D:\CS-ejercicios\ConstructorEjemplo\obj\Debug\net6.0\ConstructorEjemplo.csproj.AssemblyReference.cache
+D:\CS-ejercicios\ConstructorEjemplo\obj\Debug\net6.0\ConstructorEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\ConstructorEjemplo\obj\Debug\net6.0\ConstructorEjemplo.AssemblyInfoInputs.cache
+D:\CS-ejercicios\ConstructorEjemplo\obj\Debug\net6.0\ConstructorEjemplo.AssemblyInfo.cs
+D:\CS-ejercicios\ConstructorEjemplo\obj\Debug\net6.0\ConstructorEjemplo.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\ConstructorEjemplo\obj\Debug\net6.0\ConstructorEjemplo.dll
+D:\CS-ejercicios\ConstructorEjemplo\obj\Debug\net6.0\refint\ConstructorEjemplo.dll
+D:\CS-ejercicios\ConstructorEjemplo\obj\Debug\net6.0\ConstructorEjemplo.pdb
+D:\CS-ejercicios\ConstructorEjemplo\obj\Debug\net6.0\ConstructorEjemplo.genruntimeconfig.cache
+D:\CS-ejercicios\ConstructorEjemplo\obj\Debug\net6.0\ref\ConstructorEjemplo.dll

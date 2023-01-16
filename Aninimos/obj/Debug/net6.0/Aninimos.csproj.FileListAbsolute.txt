@@ -1,0 +1,15 @@
+D:\CS-ejercicios\Aninimos\bin\Debug\net6.0\Aninimos.exe
+D:\CS-ejercicios\Aninimos\bin\Debug\net6.0\Aninimos.deps.json
+D:\CS-ejercicios\Aninimos\bin\Debug\net6.0\Aninimos.runtimeconfig.json
+D:\CS-ejercicios\Aninimos\bin\Debug\net6.0\Aninimos.dll
+D:\CS-ejercicios\Aninimos\bin\Debug\net6.0\Aninimos.pdb
+D:\CS-ejercicios\Aninimos\obj\Debug\net6.0\Aninimos.csproj.AssemblyReference.cache
+D:\CS-ejercicios\Aninimos\obj\Debug\net6.0\Aninimos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\Aninimos\obj\Debug\net6.0\Aninimos.AssemblyInfoInputs.cache
+D:\CS-ejercicios\Aninimos\obj\Debug\net6.0\Aninimos.AssemblyInfo.cs
+D:\CS-ejercicios\Aninimos\obj\Debug\net6.0\Aninimos.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\Aninimos\obj\Debug\net6.0\Aninimos.dll
+D:\CS-ejercicios\Aninimos\obj\Debug\net6.0\refint\Aninimos.dll
+D:\CS-ejercicios\Aninimos\obj\Debug\net6.0\Aninimos.pdb
+D:\CS-ejercicios\Aninimos\obj\Debug\net6.0\Aninimos.genruntimeconfig.cache
+D:\CS-ejercicios\Aninimos\obj\Debug\net6.0\ref\Aninimos.dll

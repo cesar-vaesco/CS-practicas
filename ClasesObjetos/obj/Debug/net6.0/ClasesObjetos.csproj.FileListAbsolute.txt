@@ -1,0 +1,15 @@
+D:\CS-ejercicios\ClasesObjetos\bin\Debug\net6.0\ClasesObjetos.exe
+D:\CS-ejercicios\ClasesObjetos\bin\Debug\net6.0\ClasesObjetos.deps.json
+D:\CS-ejercicios\ClasesObjetos\bin\Debug\net6.0\ClasesObjetos.runtimeconfig.json
+D:\CS-ejercicios\ClasesObjetos\bin\Debug\net6.0\ClasesObjetos.dll
+D:\CS-ejercicios\ClasesObjetos\bin\Debug\net6.0\ClasesObjetos.pdb
+D:\CS-ejercicios\ClasesObjetos\obj\Debug\net6.0\ClasesObjetos.csproj.AssemblyReference.cache
+D:\CS-ejercicios\ClasesObjetos\obj\Debug\net6.0\ClasesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\ClasesObjetos\obj\Debug\net6.0\ClasesObjetos.AssemblyInfoInputs.cache
+D:\CS-ejercicios\ClasesObjetos\obj\Debug\net6.0\ClasesObjetos.AssemblyInfo.cs
+D:\CS-ejercicios\ClasesObjetos\obj\Debug\net6.0\ClasesObjetos.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\ClasesObjetos\obj\Debug\net6.0\ClasesObjetos.dll
+D:\CS-ejercicios\ClasesObjetos\obj\Debug\net6.0\refint\ClasesObjetos.dll
+D:\CS-ejercicios\ClasesObjetos\obj\Debug\net6.0\ClasesObjetos.pdb
+D:\CS-ejercicios\ClasesObjetos\obj\Debug\net6.0\ClasesObjetos.genruntimeconfig.cache
+D:\CS-ejercicios\ClasesObjetos\obj\Debug\net6.0\ref\ClasesObjetos.dll

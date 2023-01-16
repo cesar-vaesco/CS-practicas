@@ -1,0 +1,15 @@
+D:\CS-ejercicios\SentenciaIfElseIf\bin\Debug\net6.0\SentenciaIfElseIf.exe
+D:\CS-ejercicios\SentenciaIfElseIf\bin\Debug\net6.0\SentenciaIfElseIf.deps.json
+D:\CS-ejercicios\SentenciaIfElseIf\bin\Debug\net6.0\SentenciaIfElseIf.runtimeconfig.json
+D:\CS-ejercicios\SentenciaIfElseIf\bin\Debug\net6.0\SentenciaIfElseIf.dll
+D:\CS-ejercicios\SentenciaIfElseIf\bin\Debug\net6.0\SentenciaIfElseIf.pdb
+D:\CS-ejercicios\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.csproj.AssemblyReference.cache
+D:\CS-ejercicios\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.AssemblyInfoInputs.cache
+D:\CS-ejercicios\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.AssemblyInfo.cs
+D:\CS-ejercicios\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.dll
+D:\CS-ejercicios\SentenciaIfElseIf\obj\Debug\net6.0\refint\SentenciaIfElseIf.dll
+D:\CS-ejercicios\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.pdb
+D:\CS-ejercicios\SentenciaIfElseIf\obj\Debug\net6.0\SentenciaIfElseIf.genruntimeconfig.cache
+D:\CS-ejercicios\SentenciaIfElseIf\obj\Debug\net6.0\ref\SentenciaIfElseIf.dll

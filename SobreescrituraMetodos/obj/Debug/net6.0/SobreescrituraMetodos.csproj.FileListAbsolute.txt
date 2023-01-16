@@ -1,0 +1,15 @@
+D:\CS-ejercicios\SobreescrituraMetodos\bin\Debug\net6.0\SobreescrituraMetodos.exe
+D:\CS-ejercicios\SobreescrituraMetodos\bin\Debug\net6.0\SobreescrituraMetodos.deps.json
+D:\CS-ejercicios\SobreescrituraMetodos\bin\Debug\net6.0\SobreescrituraMetodos.runtimeconfig.json
+D:\CS-ejercicios\SobreescrituraMetodos\bin\Debug\net6.0\SobreescrituraMetodos.dll
+D:\CS-ejercicios\SobreescrituraMetodos\bin\Debug\net6.0\SobreescrituraMetodos.pdb
+D:\CS-ejercicios\SobreescrituraMetodos\obj\Debug\net6.0\SobreescrituraMetodos.csproj.AssemblyReference.cache
+D:\CS-ejercicios\SobreescrituraMetodos\obj\Debug\net6.0\SobreescrituraMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\SobreescrituraMetodos\obj\Debug\net6.0\SobreescrituraMetodos.AssemblyInfoInputs.cache
+D:\CS-ejercicios\SobreescrituraMetodos\obj\Debug\net6.0\SobreescrituraMetodos.AssemblyInfo.cs
+D:\CS-ejercicios\SobreescrituraMetodos\obj\Debug\net6.0\SobreescrituraMetodos.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\SobreescrituraMetodos\obj\Debug\net6.0\SobreescrituraMetodos.dll
+D:\CS-ejercicios\SobreescrituraMetodos\obj\Debug\net6.0\refint\SobreescrituraMetodos.dll
+D:\CS-ejercicios\SobreescrituraMetodos\obj\Debug\net6.0\SobreescrituraMetodos.pdb
+D:\CS-ejercicios\SobreescrituraMetodos\obj\Debug\net6.0\SobreescrituraMetodos.genruntimeconfig.cache
+D:\CS-ejercicios\SobreescrituraMetodos\obj\Debug\net6.0\ref\SobreescrituraMetodos.dll

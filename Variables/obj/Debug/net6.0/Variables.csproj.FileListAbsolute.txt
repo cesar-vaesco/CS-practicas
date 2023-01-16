@@ -1,0 +1,15 @@
+D:\CS-ejercicios\Variables\bin\Debug\net6.0\Variables.exe
+D:\CS-ejercicios\Variables\bin\Debug\net6.0\Variables.deps.json
+D:\CS-ejercicios\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+D:\CS-ejercicios\Variables\bin\Debug\net6.0\Variables.dll
+D:\CS-ejercicios\Variables\bin\Debug\net6.0\Variables.pdb
+D:\CS-ejercicios\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+D:\CS-ejercicios\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+D:\CS-ejercicios\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+D:\CS-ejercicios\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\Variables\obj\Debug\net6.0\Variables.dll
+D:\CS-ejercicios\Variables\obj\Debug\net6.0\refint\Variables.dll
+D:\CS-ejercicios\Variables\obj\Debug\net6.0\Variables.pdb
+D:\CS-ejercicios\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+D:\CS-ejercicios\Variables\obj\Debug\net6.0\ref\Variables.dll

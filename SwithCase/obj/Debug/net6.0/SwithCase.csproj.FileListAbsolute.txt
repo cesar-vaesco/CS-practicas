@@ -1,0 +1,15 @@
+D:\CS-ejercicios\SwithCase\bin\Debug\net6.0\SwithCase.exe
+D:\CS-ejercicios\SwithCase\bin\Debug\net6.0\SwithCase.deps.json
+D:\CS-ejercicios\SwithCase\bin\Debug\net6.0\SwithCase.runtimeconfig.json
+D:\CS-ejercicios\SwithCase\bin\Debug\net6.0\SwithCase.dll
+D:\CS-ejercicios\SwithCase\bin\Debug\net6.0\SwithCase.pdb
+D:\CS-ejercicios\SwithCase\obj\Debug\net6.0\SwithCase.csproj.AssemblyReference.cache
+D:\CS-ejercicios\SwithCase\obj\Debug\net6.0\SwithCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\SwithCase\obj\Debug\net6.0\SwithCase.AssemblyInfoInputs.cache
+D:\CS-ejercicios\SwithCase\obj\Debug\net6.0\SwithCase.AssemblyInfo.cs
+D:\CS-ejercicios\SwithCase\obj\Debug\net6.0\SwithCase.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\SwithCase\obj\Debug\net6.0\SwithCase.dll
+D:\CS-ejercicios\SwithCase\obj\Debug\net6.0\refint\SwithCase.dll
+D:\CS-ejercicios\SwithCase\obj\Debug\net6.0\SwithCase.pdb
+D:\CS-ejercicios\SwithCase\obj\Debug\net6.0\SwithCase.genruntimeconfig.cache
+D:\CS-ejercicios\SwithCase\obj\Debug\net6.0\ref\SwithCase.dll

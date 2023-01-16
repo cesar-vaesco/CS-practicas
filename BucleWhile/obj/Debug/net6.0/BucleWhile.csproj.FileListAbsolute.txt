@@ -1,0 +1,15 @@
+D:\CS-ejercicios\BucleWhile\bin\Debug\net6.0\BucleWhile.exe
+D:\CS-ejercicios\BucleWhile\bin\Debug\net6.0\BucleWhile.deps.json
+D:\CS-ejercicios\BucleWhile\bin\Debug\net6.0\BucleWhile.runtimeconfig.json
+D:\CS-ejercicios\BucleWhile\bin\Debug\net6.0\BucleWhile.dll
+D:\CS-ejercicios\BucleWhile\bin\Debug\net6.0\BucleWhile.pdb
+D:\CS-ejercicios\BucleWhile\obj\Debug\net6.0\BucleWhile.csproj.AssemblyReference.cache
+D:\CS-ejercicios\BucleWhile\obj\Debug\net6.0\BucleWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\BucleWhile\obj\Debug\net6.0\BucleWhile.AssemblyInfoInputs.cache
+D:\CS-ejercicios\BucleWhile\obj\Debug\net6.0\BucleWhile.AssemblyInfo.cs
+D:\CS-ejercicios\BucleWhile\obj\Debug\net6.0\BucleWhile.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\BucleWhile\obj\Debug\net6.0\BucleWhile.dll
+D:\CS-ejercicios\BucleWhile\obj\Debug\net6.0\refint\BucleWhile.dll
+D:\CS-ejercicios\BucleWhile\obj\Debug\net6.0\BucleWhile.pdb
+D:\CS-ejercicios\BucleWhile\obj\Debug\net6.0\BucleWhile.genruntimeconfig.cache
+D:\CS-ejercicios\BucleWhile\obj\Debug\net6.0\ref\BucleWhile.dll

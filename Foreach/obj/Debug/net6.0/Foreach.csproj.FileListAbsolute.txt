@@ -1,0 +1,15 @@
+D:\CS-ejercicios\Foreach\bin\Debug\net6.0\Foreach.exe
+D:\CS-ejercicios\Foreach\bin\Debug\net6.0\Foreach.deps.json
+D:\CS-ejercicios\Foreach\bin\Debug\net6.0\Foreach.runtimeconfig.json
+D:\CS-ejercicios\Foreach\bin\Debug\net6.0\Foreach.dll
+D:\CS-ejercicios\Foreach\bin\Debug\net6.0\Foreach.pdb
+D:\CS-ejercicios\Foreach\obj\Debug\net6.0\Foreach.csproj.AssemblyReference.cache
+D:\CS-ejercicios\Foreach\obj\Debug\net6.0\Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfoInputs.cache
+D:\CS-ejercicios\Foreach\obj\Debug\net6.0\Foreach.AssemblyInfo.cs
+D:\CS-ejercicios\Foreach\obj\Debug\net6.0\Foreach.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\Foreach\obj\Debug\net6.0\Foreach.dll
+D:\CS-ejercicios\Foreach\obj\Debug\net6.0\refint\Foreach.dll
+D:\CS-ejercicios\Foreach\obj\Debug\net6.0\Foreach.pdb
+D:\CS-ejercicios\Foreach\obj\Debug\net6.0\Foreach.genruntimeconfig.cache
+D:\CS-ejercicios\Foreach\obj\Debug\net6.0\ref\Foreach.dll

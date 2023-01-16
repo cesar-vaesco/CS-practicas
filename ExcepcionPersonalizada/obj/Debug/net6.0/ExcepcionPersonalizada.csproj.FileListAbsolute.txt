@@ -1,0 +1,15 @@
+D:\CS-ejercicios\ExcepcionPersonalizada\bin\Debug\net6.0\ExcepcionPersonalizada.exe
+D:\CS-ejercicios\ExcepcionPersonalizada\bin\Debug\net6.0\ExcepcionPersonalizada.deps.json
+D:\CS-ejercicios\ExcepcionPersonalizada\bin\Debug\net6.0\ExcepcionPersonalizada.runtimeconfig.json
+D:\CS-ejercicios\ExcepcionPersonalizada\bin\Debug\net6.0\ExcepcionPersonalizada.dll
+D:\CS-ejercicios\ExcepcionPersonalizada\bin\Debug\net6.0\ExcepcionPersonalizada.pdb
+D:\CS-ejercicios\ExcepcionPersonalizada\obj\Debug\net6.0\ExcepcionPersonalizada.csproj.AssemblyReference.cache
+D:\CS-ejercicios\ExcepcionPersonalizada\obj\Debug\net6.0\ExcepcionPersonalizada.GeneratedMSBuildEditorConfig.editorconfig
+D:\CS-ejercicios\ExcepcionPersonalizada\obj\Debug\net6.0\ExcepcionPersonalizada.AssemblyInfoInputs.cache
+D:\CS-ejercicios\ExcepcionPersonalizada\obj\Debug\net6.0\ExcepcionPersonalizada.AssemblyInfo.cs
+D:\CS-ejercicios\ExcepcionPersonalizada\obj\Debug\net6.0\ExcepcionPersonalizada.csproj.CoreCompileInputs.cache
+D:\CS-ejercicios\ExcepcionPersonalizada\obj\Debug\net6.0\ExcepcionPersonalizada.dll
+D:\CS-ejercicios\ExcepcionPersonalizada\obj\Debug\net6.0\refint\ExcepcionPersonalizada.dll
+D:\CS-ejercicios\ExcepcionPersonalizada\obj\Debug\net6.0\ExcepcionPersonalizada.pdb
+D:\CS-ejercicios\ExcepcionPersonalizada\obj\Debug\net6.0\ExcepcionPersonalizada.genruntimeconfig.cache
+D:\CS-ejercicios\ExcepcionPersonalizada\obj\Debug\net6.0\ref\ExcepcionPersonalizada.dll
